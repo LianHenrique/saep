@@ -1,0 +1,42 @@
+{
+  "usuarios": [
+    {
+      "id": "7",
+      "nome": "Cristiano",
+      "email": "cr7@gmail.com"
+    },
+    {
+      "id": "677c",
+      "nome": "Neymar Jr",
+      "email": "cris@gmail.com"
+    },
+    {
+      "id": "0a1d",
+      "nome": "Cristiano",
+      "email": "cris@gmail.com"
+    },
+    {
+      "id": "009e",
+      "nome": "asd",
+      "email": "ronaldo7@gmail.com"
+    }
+  ],
+  "livros": [
+    {
+      "id": "df2d",
+      "titulo": "Pedro",
+      "autor": "sim",
+      "generos": "talvez",
+      "status": "Quero ler",
+      "usuario": "Neymar Jr"
+    },
+    {
+      "id": "5c86",
+      "titulo": "ewqg",
+      "autor": "ewg",
+      "generos": "ewg",
+      "status": "Quero ler",
+      "usuario": "asd"
+    }
+  ]
+}
